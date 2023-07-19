@@ -51,30 +51,25 @@ __Good2Go__, Consultant
 
 ### Data Science Consulting Team
 
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+`April 2023 - Present`
+__Hackathon-W__
 
 
 ## Service and Work History
 
 `2025-2027`
-__Math Tutor__, LDSBC
+__Driver and Signal Corpsman__, Yang Gu, South Korea
+- Improved overall operations planning efficiency by appropriately supervising dispatch movement during security Incidents
+- Learned about the basic system of communication in a year’s duration
+- Adapted to ideal in an organization and developed a sense of cooperation with other team members to produce great results 
 
 
-`2023-2025`
-__Service Missionary__, South Africa
+`Jun 2018- Jun 2020`
+__Full-time Volunteer Representative__, Busan, South Korea
 
+- Adapted to an entirely different culture and connected with local people while serving 60-80 hours per week
+- Devised lesson plans and strategies to help hundreds of people set and reach their personal goals
+- Prepared and taught weekly training meetings for fellow volunteers to promote efficiency within the group
 
 
 <!-- ### Footer
