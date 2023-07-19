@@ -49,6 +49,7 @@ __Se-ji Farm__, Naju, South Korea
 - R & R Studio
 - MYSQL 
 - PowerBI
+
 `Competent`
 
 - HTML & CSS
