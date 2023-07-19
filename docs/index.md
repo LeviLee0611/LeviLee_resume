@@ -1,8 +1,8 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Levi Lee's Resume
 ---
-# Brigham Young
+# Levi Lee
 The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 <div id="webaddress">
@@ -22,7 +22,7 @@ __LDS Business College__, Salt Lake City, UT
 - Full academic scholarship with 4.0 GPA
 
 `Expected 2029`
-__Brigham Young University - Idaho__, Rexburg, ID
+__Levi Lee University - Idaho__, Rexburg, ID
 
 - 4.0 Major GPA
 
