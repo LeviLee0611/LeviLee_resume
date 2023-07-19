@@ -68,14 +68,14 @@ __Hackathon-W__
 
 ## Service and Work History
 
-`2025-2027`
+`May 2016 - Feburary 2018`
 __Driver and Signal Corpsman__, Yang Gu, South Korea
 - Improved overall operations planning efficiency by appropriately supervising dispatch movement during security Incidents
 - Learned about the basic system of communication in a year’s duration
 - Adapted to ideal in an organization and developed a sense of cooperation with other team members to produce great results 
 
 
-`Jun 2018- Jun 2020`
+`June 2018 - June 2020`
 __Full-time Volunteer Representative__, Busan, South Korea
 
 - Adapted to an entirely different culture and connected with local people while serving 60-80 hours per week
