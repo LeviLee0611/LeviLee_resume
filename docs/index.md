@@ -44,19 +44,20 @@ __Se-ji Farm__, Naju, South Korea
 
 ### Tools
 
-`Advanced`
+__Advanced__
 
 - R & R Studio
 - MYSQL 
 - PowerBI
 
-`Competent`
+__Competent__
 
 - HTML & CSS
 - Python
 - Tableau % Tableau Public
 
-`Bilingual`
+__Bilingual__
+
 - Korean(Native)
 - English(Fluent)
 
