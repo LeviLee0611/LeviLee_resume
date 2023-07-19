@@ -24,14 +24,14 @@ __BrighamYoung University - Idaho__, Rexburg, ID
 
 ## Related Experience
 
-### Internships
+### Data Analyst 
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`September 2021 - Present`
+__BYU-Idaho __, Rexburg, ID
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+- Participating in the projects using Internet usage, upload time, and so on to English was not their first language implement school curriculum rapidly and appropriately
+- Utilized PowerBI and SQL query to collect data, analyze the data we need, and visualize it in Excel
+- Created dashboard to visualize the data by using PowerBI and had meeting with those visualized data. 
 
 ### Data Science Lead
 
