@@ -42,21 +42,22 @@ __Se-ji Farm__, Naju, South Korea
 - Created comprehensive reports and presentations to communicate findings and recommendations to management and stakeholders. 
 - Utilized statistical techniques to analyze experimental data, identifying factors affecting crop growth and optimizing environmental conditions for maximum yield.
 
-### Data Science Lead
+### Tools
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+`Advanced`
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+- R & R Studio
+- MYSQL 
+- PowerBI
+`Competent`
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
+- HTML & CSS
+- Python
+- Tableau % Tableau Public
 
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
+`Bilingual`
+- Korean(Native)
+- English(Fluent)
 
 ### Data Science Consulting Team
 
