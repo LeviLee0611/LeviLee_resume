@@ -28,7 +28,7 @@ __BrighamYoung University - Idaho__, Rexburg, ID
 ### Data Analyst 
 
 `September 2021 - Present`
-__BYU-Idaho __, Rexburg, ID
+__BYU-Idaho__, Rexburg, ID
 
 - Participating in the projects using Internet usage, upload time, and so on to English was not their first language implement school curriculum rapidly and appropriately
 - Utilized PowerBI and SQL query to collect data, analyze the data we need, and visualize it in Excel
